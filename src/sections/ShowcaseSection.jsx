@@ -78,12 +78,12 @@ const AppShowcase = () => {
       link: "https://www.canva.com/design/DAGfvGsn2aA/E7hqHTRT8heDVbSKb79SKA/view",
     },
     {
-      title: "Kindemy Learning Platform",
+      title: "KMS & co Skincare Store",
       img: "/images/project4.jpg",
-      link: "https://www.kindemy.org",
+      link: "",
     },
     {
-      title: "Sketch UI Design",
+      title: "Kindemy Learning Platform",
       img: "/images/project5.jpg",
       link: "https://www.sketch.com/s/7d626c06-317b-4c13-b8ad-cd2f8929fc1b",
     },
@@ -93,14 +93,14 @@ const AppShowcase = () => {
       link: "https://www.figma.com/design/mZo8zLX0PQ3A0HMoaK3th6/traffik-app-design",
     },
     {
-      title: "Youth Campaign Poster",
+      title: "KTMO brand bead design",
       img: "/images/project7.jpg",
       link: "https://www.canva.com/design/DAGrdAL9ePc/Y6FEet_5YmgaafdFM81D2A/view",
     },
     {
-      title: "Flyer Promo Design",
+      title: "Pawfect finder app",
       img: "/images/project8.jpg",
-      link: "https://www.canva.com/design/DAGEaykSmNM/xW4Vf3vSPe9-n6GrAC7amQ/view",
+      link: "https://www.canva.com/design/DAGfvGsn2aA/E7hqHTRT8heDVbSKb79SKA/view?utm_content=DAGfvGsn2aA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hade1dab8e4",
     },
   ];
 
