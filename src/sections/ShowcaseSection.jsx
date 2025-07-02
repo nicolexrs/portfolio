@@ -80,7 +80,7 @@ const AppShowcase = () => {
     {
       title: "KMS & co Skincare Store",
       img: "/images/project4.jpg",
-      link: "",
+      link: "https://github.com/Patricia1532/Skincare-store-website",
     },
     {
       title: "Kindemy Learning Platform",
