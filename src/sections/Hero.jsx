@@ -50,7 +50,7 @@ const Hero = () => {
               <h1>that Deliver Results</h1>
             </div>
 
-            <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
+            <p className="text-white-50 md:text-xl relative z-10 pointer-events-none w-100">
               Hi, I’m Patricia Eziashi 
               I'm a dedicated Mass Communication graduate with a strong interest in digital media, corporate communication, and public relations. Possess a solid understanding of strategic communication and content development, with a focus on engaging diverse audiences across multiple platforms. Highly motivated to learn and grow professionally while contributing meaningfully to organizational goals. Actively seeking opportunities to gain relevant work experience and develop new skills in a dynamic professional setting
             </p>
