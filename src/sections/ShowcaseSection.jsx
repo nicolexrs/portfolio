@@ -68,14 +68,14 @@ const AppShowcase = () => {
       link: "https://www.canva.com/design/DAGrYDH1vA0/t163Zk5WJ7F-574ONWc1nA/view",
     },
     {
-      title: "ECOWAS News in Africa",
-      img: "/images/project2.jpg",
+      title: "ECOWAS Newsletter",
+      img: "/images/project.jpg",
       link: "https://assets.adobe.com/id/urn:aaid:sc:US:7aacab16-b4d1-40eb-8b8e-1c85c2164038?view=published",
     },
     {
-      title: "YC Directory App",
-      img: "/images/project3.jpg",
-      link: "https://www.canva.com/design/DAGfvGsn2aA/E7hqHTRT8heDVbSKb79SKA/view",
+      title: "ECOWAS",
+      img: "/images/project2.jpg",
+      link:" https://assets.adobe.com/id/urn:aaid:sc:US:bff39fc7-af9b-4da0-9864-7729b78035a5?view=published",
     },
     {
       title: "KMS & co Skincare Store",
